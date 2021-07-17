@@ -6,7 +6,8 @@
 
 <br />
 
-💻 **What I am doing now?** Learning and working on some individual projects that build my skills even more!
+💻 **What I am doing now?** Learning and working on some individual projects that build my skills even more
+- 🔎 Take a look at some of the projects that I have done over the course of my study at GCU
 
 <br />
 
