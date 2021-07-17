@@ -4,10 +4,13 @@
 - 💞️ I’m looking to collaborate on starting an internship or a entry level position
 - 🎨 I am very creative in everything I do, so if you like creativity and finding some fresh ideas, I can help
 
+<br />
 
-- 💻 **What I am doing now?** Learning and working on some individual projects that build my skills even more!
+💻 **What I am doing now?** Learning and working on some individual projects that build my skills even more!
 
-- 📫 You can contact me using the info on my resume
+<br />
+
+📫 You can contact me using the info on my resume
 
 <!---
 NKumar-coder21/NKumar-coder21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
