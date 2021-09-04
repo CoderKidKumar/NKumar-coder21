@@ -15,7 +15,7 @@ I am a senior at GCU pursuing a BS in Software Development (2022). I always had 
 1. Front-end skills - HTML, CSS, & Bootstrap -- which I really do enjoy doing 😁
 2. PHP & SQL
 3. C#
-4. Phython *(currently learning on the side)*
+4. Python *(currently learning on the side)*
 5. Visual Studio & Visual Studio Code
 6. Good with Windows and Apple computers
 
