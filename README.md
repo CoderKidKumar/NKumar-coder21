@@ -1,5 +1,5 @@
 ## Hello, I am Nathaniel Kumar (NKumar-coder21)
-I am a senior at GCU persuing a BS in Software Development (2022). I always had a passion for computers since I was young, and now software development takes it to a whole new level. 
+I am a senior at GCU pursuing a BS in Software Development (2022). I always had a passion for computers since I was young, and now software development takes it to a whole new level. 
 
 ### My Intrests / Hobies / Skills
 1. ✝️ Jesus Christ - always and forever!
