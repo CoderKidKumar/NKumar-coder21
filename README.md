@@ -9,6 +9,7 @@ I am a senior at GCU persuing a BS in Software Development (2022). I always had 
 5. 🏔 The great outdoors! - A bit of hiking & taking photos of outdoor scenery
 6. 🎨 Creativity - I really like to expore different ways how things can be laied out (presentations, applications, and even desk layouts)
 7. 👨🏻‍🏫 Teaching / Toutoring - I really like teaching younger children
+8. 📚 Love of learning new things!
 
 ### Major Skills in Software Delopment
 1. Front-end skills - HTML, CSS, & Bootstrap -- which I really do enjoy doing 😁
