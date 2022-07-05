@@ -12,6 +12,7 @@ I am a senior at GCU pursuing a BS in Software Development (2022). I always had 
 ## Major Skills in Software Delopment
 1. Front-end skills —  HTML, CSS, & Bootstrap
 2. Back-end Skills — PHP & SQL
+    >Take a look at my capstone project (https://apostolicmenwearhouse.herokuapp.com/index.php) -- Under "eCommerce_StoreApp" repository
 3. C# & ASP.NET
 4. Visual Studio & Visual Studio Code
 5. Good with Windows and Apple computers
